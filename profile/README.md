@@ -13,7 +13,7 @@ employment opportunities to citizens along with enhancing the systems around edu
 
 The [Saksham Samiksha Android Application](https://play.google.com/store/apps/details?id=com.samagra.sakshamSamiksha&hl=en_IN&gl=US)
 is an Android application for mentors to visit schools and record observations of academic and
-non-academic nature. It also allows school principals to track the attendance of their teachers and
+non-academic nature. Mentors can also conduct spot assessments of the students and view their results. It also allows school principals to track the attendance of their teachers and
 students.
 
 The application is predominantly written in Java with newer elements in Kotlin. The app extensively
